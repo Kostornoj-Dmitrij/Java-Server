@@ -1,0 +1,26 @@
+[03-22 23:13:26,436, 462] main.Main Starting at http://127.0.0.1:8080
+[03-22 23:13:26,601, 627] main.Main Server started
+[03-22 23:13:31,131, 5157] servlets.HomePageServlet 10
+[03-22 23:13:34,276, 8302] servlets.HomePageServlet 10
+[03-22 23:13:35,044, 9070] servlets.HomePageServlet 10
+[03-22 23:13:35,535, 9561] servlets.HomePageServlet 10
+[03-22 23:13:35,899, 9925] servlets.HomePageServlet 10
+[03-22 23:13:36,225, 10251] servlets.HomePageServlet 10
+[03-22 23:13:36,517, 10543] servlets.HomePageServlet 10
+[03-22 23:13:36,798, 10824] servlets.HomePageServlet 10
+[03-22 23:13:37,096, 11122] servlets.HomePageServlet 10
+[03-22 23:13:37,483, 11509] servlets.HomePageServlet 10
+[03-22 23:13:40,493, 14519] servlets.HomePageServlet 10
+[03-22 23:13:41,220, 15246] servlets.HomePageServlet 10
+[03-22 23:13:41,847, 15873] servlets.HomePageServlet 10
+[03-22 23:13:42,328, 16354] servlets.HomePageServlet 10
+[03-22 23:13:42,828, 16854] servlets.HomePageServlet 10
+[03-22 23:13:43,303, 17329] servlets.HomePageServlet 10
+[03-22 23:13:43,840, 17866] servlets.HomePageServlet 10
+[03-22 23:13:44,294, 18320] servlets.HomePageServlet 10
+[03-22 23:13:44,818, 18844] servlets.HomePageServlet 10
+[03-22 23:13:45,319, 19345] servlets.HomePageServlet 10
+[03-22 23:13:45,900, 19926] servlets.HomePageServlet 10
+[03-22 23:13:46,438, 20464] servlets.HomePageServlet 10
+[03-22 23:13:46,946, 20972] servlets.HomePageServlet 10
+[03-22 23:13:47,513, 21539] servlets.HomePageServlet 10

@@ -1,0 +1,6 @@
+[03-27 09:08:11,369, 456] main.Main Starting at http://127.0.0.1:8080
+[03-27 09:08:11,536, 623] main.Main Server started
+[03-27 09:08:25,806, 14893] servlets.AdminPageServlet Limit: 10. Count 0
+[03-27 09:08:26,837, 15924] servlets.HomePageServlet Limit: 10. Count 0
+[03-27 09:08:26,837, 15924] servlets.HomePageServlet User pass
+[03-27 09:08:28,771, 17858] servlets.AdminPageServlet Limit: 10. Count 1

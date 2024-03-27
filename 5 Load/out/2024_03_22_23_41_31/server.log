@@ -1,0 +1,4 @@
+[03-22 23:41:32,079, 492] main.Main Starting at http://127.0.0.1:8080
+[03-22 23:41:32,242, 655] main.Main Server started
+[03-22 23:41:35,136, 3549] servlets.HomePageServlet 10
+[03-22 23:41:35,136, 3549] servlets.HomePageServlet User pass

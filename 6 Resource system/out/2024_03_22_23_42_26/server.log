@@ -1,0 +1,12 @@
+[03-22 23:42:26,439, 465] main.Main Starting at http://127.0.0.1:8080
+[03-22 23:42:26,613, 639] main.Main Server started
+[03-22 23:42:28,257, 2283] servlets.HomePageServlet 10
+[03-22 23:42:29,148, 3174] servlets.HomePageServlet 10
+[03-22 23:42:33,124, 7150] servlets.HomePageServlet 10
+[03-22 23:42:34,251, 8277] servlets.HomePageServlet 10
+[03-22 23:42:34,626, 8652] servlets.HomePageServlet 10
+[03-22 23:42:34,853, 8879] servlets.HomePageServlet 10
+[03-22 23:42:35,107, 9133] servlets.HomePageServlet 10
+[03-22 23:42:35,293, 9319] servlets.HomePageServlet 10
+[03-22 23:42:35,493, 9519] servlets.HomePageServlet 10
+[03-22 23:42:35,667, 9693] servlets.HomePageServlet 10

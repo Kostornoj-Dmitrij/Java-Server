@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e83cc01-84ad-4996-8730-211a1cfd0031" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/artifacts/MyServer3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/artifacts/MyServer3_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/cfg/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/cfg/test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/out/artifacts/MyServer3_jar/MyServer3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/out/artifacts/MyServer3_jar/MyServer3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/public_html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/server.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/src/main/java/chat/WebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/src/main/java/chat/WebSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/src/main/java/chat/WebSocketServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/src/main/java/chat/WebSocketServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/start.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/target/classes/chat/WebSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/target/classes/chat/WebSocket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/target/classes/chat/WebSocketServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/target/classes/chat/WebSocketServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/target/classes/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2/tester.jar" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Tools/tester.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +15,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eFvOOEqvqtlebgvgfCD5vsTUrS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IdeaProjects/Java-Server"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/Java-Server&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IdeaProjects\Java-Server" />
       <recent name="C:\Users\Админ\IdeaProjects\Java-Server" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Java-Server\2.3" />
+      <recent name="D:\IdeaProjects\Java-Server" />
       <recent name="D:\IdeaProjects\Java-Server\6 Resource system" />
     </key>
   </component>
@@ -101,13 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711694772253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2.3 &quot;Advanced&quot; language basics">
+      <created>1713709638962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713709638962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6 Resource system" />
     <MESSAGE value="5 Load" />
     <MESSAGE value="5 Load (final)" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 Load (final)" />
+    <MESSAGE value="2.3 &quot;Advanced&quot; language basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.3 &quot;Advanced&quot; language basics" />
   </component>
 </project>
